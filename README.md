@@ -10,7 +10,7 @@ A principio o site é uma página com links e otimização de cache ............
 
 - [TAILWINDCSS](https://tailwindcss.com/)
 
--[PRISMIC](https://prismic.io/)
+- [PRISMIC](https://prismic.io/)
 
 
 ### Participante: 
