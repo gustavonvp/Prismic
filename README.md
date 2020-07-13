@@ -2,6 +2,8 @@
 
 ![images](https://user-images.githubusercontent.com/54008916/87328138-6f400480-c50b-11ea-9627-0cebe8c75af2.jpg)
 
+A principio o site é uma página com links e otimização de cache.................
+
 ## Linguagens e libs utilizadas :books:
 
 - [NEXTJS](https://nextjs.org/)
@@ -14,12 +16,6 @@
 | -------- | -------- | -------- |-------- | -------- |
 |Gustavo Nunes|gustavonvp@gmail.com|true|false|Home-Station|
 
-
-## Deploy da Aplicação com ?: :?:
-
-/* Aqui estamos usando a tag Quotes do markdown*/
-
-> ???
 
 
 > Status do Projeto: Em desenvolvimento :warning:
