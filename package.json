@@ -19,6 +19,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "tailwindcss": "^1.4.6",
-    "shell-quote": ">=1.7.3"
+    "shell-quote": ">=1.7.3",
+    "next": ">=11.1.3"
   }
 }
